@@ -1,4 +1,5 @@
-# Hi, I'm Ethan 👋
+#  Hi, I'm Ethan 👋  
+
 
 ## Work
 
@@ -6,7 +7,9 @@
 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 
-
+## TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/SoberBlue.png" alt="TryHackMe">
+🏆 = Rank  🚪= Rooms Completed  🎯= Badges Earned
 
 ## Contact
 
