@@ -1,7 +1,5 @@
 # Hi, I'm Ethan 👋
 
------
-
 ## Work
 
 💼 Blue Fuse Systems as a Junior Full Stack Engineer
@@ -10,7 +8,7 @@
 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 
------
+
 
 ## Contact
 
