@@ -1,8 +1,25 @@
 # Hi, I'm Ethan 👋
 
-💼 Blue Fuse Systems as a Junior Full Stack Engineer ![bluefusesystems]()
+-----
 
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+## Work
+
+💼 Blue Fuse Systems as a Junior Full Stack Engineer
+
+[Gitlab](https://gitlab.com/EthanD123)
+
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+
+-----
+
+## Contact
+
+[LinkedIn-Ethan Donovan](https://www.linkedin.com/in/ethan-donovan-5251081ab/) &nbsp;&nbsp;&nbsp;&nbsp; ethandonovan111@hotmail.com
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
+
+
 <!--
 **SoberBluee/SoberBluee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
