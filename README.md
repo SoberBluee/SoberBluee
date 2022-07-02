@@ -2,8 +2,6 @@
 
 ## Work
 
-💼 Blue Fuse Systems as a Junior Full Stack Engineer
-
 [Gitlab](https://gitlab.com/EthanD123)
 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
