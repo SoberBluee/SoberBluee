@@ -8,6 +8,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 
 ## TryHackMe
+### Profile : https://tryhackme.com/p/SoberBlue
 <img src="https://tryhackme-badges.s3.amazonaws.com/SoberBlue.png" alt="TryHackMe">
 🏆 = Rank  🚪= Rooms Completed  🎯= Badges Earned
 
