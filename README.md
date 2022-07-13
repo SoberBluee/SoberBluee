@@ -3,7 +3,7 @@
 <h1>Hi, I'm Ethan 👋</h1>  
 
 
-<h2>TryHacMe</h2>
+<h2>TryHackMe</h2>
 <h3><a href="https://tryhackme.com/p/SoberBlue">Profile</a> </h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/SoberBlue.png" alt="TryHackMe">
 🏆 = Rank  🚪= Rooms Completed  🎯= Badges Earned
