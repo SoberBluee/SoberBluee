@@ -8,6 +8,10 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/SoberBlue.png" alt="TryHackMe">
 🏆 = Rank  🚪= Rooms Completed  🎯= Badges Earned
 
+## My Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoberBluee)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>Contact</h2>
 
 [LinkedIn-Ethan Donovan](https://www.linkedin.com/in/ethan-donovan-5251081ab/) &nbsp;&nbsp;&nbsp;&nbsp; ethandonovan111@hotmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Work GitLab](https://gitlab.com/EthanD123)
